@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectorizer", "Vectorizer\Vectorizer.vcxproj", "{D400757D-7058-4589-AD7A-5BB17B3DD98A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Debug|x64.ActiveCfg = Debug|x64
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Debug|x64.Build.0 = Debug|x64
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Debug|x86.ActiveCfg = Debug|Win32
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Debug|x86.Build.0 = Debug|Win32
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Release|x64.ActiveCfg = Release|x64
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Release|x64.Build.0 = Release|x64
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Release|x86.ActiveCfg = Release|Win32
+		{D400757D-7058-4589-AD7A-5BB17B3DD98A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AC675D-FEC5-4D33-84C9-C0C951901836}
+	EndGlobalSection
+EndGlobal
