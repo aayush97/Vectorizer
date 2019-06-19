@@ -9,7 +9,7 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Resource Files">
+    <Filter Include="Source Files\Resource Files">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
@@ -29,5 +29,32 @@
     <ClCompile Include="Vectorizer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="inputImage.jpg">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="lenna.png">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="image1.jpg">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="output.svg">
+      <Filter>Source Files\Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="cg.txt">
+      <Filter>Source Files\Resource Files</Filter>
+    </Text>
+    <Text Include="sm.txt">
+      <Filter>Source Files\Resource Files</Filter>
+    </Text>
+    <Text Include="ss.txt">
+      <Filter>Source Files\Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
